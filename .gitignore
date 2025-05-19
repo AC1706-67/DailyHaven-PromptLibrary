@@ -1,0 +1,14 @@
+# Ignore Python cache and Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore temporary system or OS files
+.DS_Store
+*.env
+
+# Ignore machine learning artifacts
+*.pt
+*.ckpt
+*.pkl
+*.json
+*.h5
